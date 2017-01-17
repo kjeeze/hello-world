@@ -1,2 +1,3 @@
 # hello-world
-Some repository
+My name is Kevin Usher.
+I like martial arts,gaming, and youtube.
